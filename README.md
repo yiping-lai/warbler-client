@@ -1,7 +1,12 @@
-# Warbler API Single Page Frontend
+# Warbler Single Page Website
 
-This frontend is designed to work with [NodeJS-based Backend](https://github.com/yiping-lai/warbler-server). The ```src``` folder contains the interface between the frontend and backend.
+This is a Single Page Website where users can sign up and sign in to view all messages and create/delete their own messages. This frontend is designed to work with [NodeJS-based Backend](https://github.com/yiping-lai/warbler-server). The ```src``` folder contains the interface between the frontend and backend. 
 
+## About the Stack
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The tech stack includes HTML, CSS, Bootstrap3, React, and Redux.
+
+## Getting started
 
 ### Installing Dependencies
 
@@ -17,15 +22,9 @@ This project uses NPM to manage software dependencies. NPM Relies on the package
 npm install
 ```
 
->_tip_: **npm i** is shorthand for **npm install**
+## Running Your Frontend 
 
-## Required Tasks
-
-## Running Your Frontend in Dev Mode
-
-The frontend app was built using create-react-app. In order to run the app in development mode use ```npm start```. You can change the script in the ```package.json``` file. 
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits.<br>
+The frontend app was built using create-react-app. In order to run the app in development mode use ```npm start```. You can change the script in the ```static.json``` to set proxy to the correct backend port. 
 
 ```bash
 npm start
