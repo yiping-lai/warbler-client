@@ -5,7 +5,7 @@
 	},
 	"proxies":{
 		"/api":{
-			"origin":"https://mysterious-bayou-72341.herokuapp.com"
+			"origin":"https://mysterious-bayou-72341.herokuapp.com/api"
 		}
 	}
 }
