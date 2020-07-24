@@ -1,7 +1,7 @@
 {
 	"root":"build/",
 	"routes":{
-		"/**":"index.hteml"
+		"/**":"index.html"
 	},
 	"proxies":{
 		"/api":{
