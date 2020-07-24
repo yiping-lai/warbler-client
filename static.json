@@ -1,0 +1,11 @@
+{
+	"root":"build/",
+	"routes":{
+		"/**":"index.hteml"
+	},
+	"proxies":{
+		"/api":{
+			"origin":"https://mysterious-bayou-72341.herokuapp.com/"
+		}
+	}
+}
