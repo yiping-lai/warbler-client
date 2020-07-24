@@ -10,7 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
   ```sh
   ├── README.md
-  ├── index.js 
   ├── package.json *** The dependencies we need to install "npm start"
   ├── static.json *** Set up landig html and proxy to backend 
   ├── src
