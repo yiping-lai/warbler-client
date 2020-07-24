@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ├── README.md
   ├── package.json *** The dependencies we need to install "npm start"
   ├── static.json *** Set up landig html and proxy to backend 
-  ├── src
+  ├── src *** main folder for react-react-app
   │   ├── store *** Redux related documents
   │   │   ├── actions
   │   │   ├── reducers
