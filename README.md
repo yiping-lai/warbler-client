@@ -51,3 +51,6 @@ The frontend app was built using create-react-app. In order to run the app in de
 ```bash
 npm start
 ```
+
+## Code guided by Udemy - The advanced web developer bootcamp
+https://www.udemy.com/course/the-advanced-web-developer-bootcamp/
